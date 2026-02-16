@@ -56,6 +56,7 @@ ________________________
 _________________________
 
 👨‍💻Technologies Used
+supabase 
 
 Next.js – Server-side rendering & routing
 
